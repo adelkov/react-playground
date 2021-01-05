@@ -11,7 +11,7 @@
     "@material-ui/icons": "^3.0.1",
     "@reach/router": "^1.2.1",
     "auth0-js": "^9.8.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "chai": "^4.2.0",
     "firebaseui": "^3.4.1",
     "google-maps-react": "^2.0.2",
